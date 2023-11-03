@@ -1,1 +1,1 @@
-# Intuitive and Interactive Learning of Robot Teleoperation
+# Intuitive and Interactive Training of Robot Teleoperation
