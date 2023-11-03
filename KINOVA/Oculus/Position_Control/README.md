@@ -48,5 +48,5 @@ roslaunch kinova_vision kinova_vision_color_only.launch
 In the fifth terminal, launch the graphical user interface
 ```bash
 cd cam_ws/
-python3 UI_eye_in_hand.py
+python3 UI_global_local_views.py
 ```
