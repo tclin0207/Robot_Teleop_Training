@@ -9,8 +9,9 @@ Control input: Oculus Quest 2
 1. Launch Oculus Desktop App
 2. Enable Quest Link
 3. Run the Oculus Unity Project
-4. Select 'Reset View'
-5. Click any buttons on the Oculus control once
+4. Click the 'Robotics' tab and select ROS setting, then paste the ROS system IP address
+5. Select 'Reset View'
+6. Click any buttons on the Oculus control once
 
 ## Launch the teleoperation interface
 In the first terminal, launch the roscore
