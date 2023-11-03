@@ -2,8 +2,8 @@
 Control input: Oculus Quest 2
 
 ## Preparation
-1. Install related package (source:https://github.com/AlfaKeNTAvR/relaxed_ik_ros1)
-2. Plugin Unity project
+1. Install related package (source: https://github.com/AlfaKeNTAvR/relaxed_ik_ros1)
+2. Plugin Unity project (download here: https://drive.google.com/file/d/1XF-1P9C2r3X71h6BOlPYQMhcxCud4nVu/view?usp=sharing)
 
 ## Launch the Unity Project
 1. Launch Oculus Desktop App
