@@ -1,4 +1,4 @@
-# KINOVA Remote Manipulation via Position Control 
+# KINOVA Remote Manipulation via Positional Control 
 Control input: Oculus Quest 2
 
 ## Preparation
