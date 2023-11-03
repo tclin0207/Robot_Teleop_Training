@@ -2,7 +2,7 @@
 Control input: Oculus Quest 2
 
 ## Preparation
-1. Install related package (source:"https://github.com/AlfaKeNTAvR/relaxed_ik_ros1")
+1. Install related package (source:https://github.com/AlfaKeNTAvR/relaxed_ik_ros1)
 2. Plugin Unity project
 
 ## Launch the Unity Project
