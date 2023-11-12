@@ -6,6 +6,7 @@ Control input: HTC VIVE Pro 2
 1. Clone related packages and build workspace
 ```bash
 cd kinova_ws/src
+source ./devel/setup.bash
 git clone https://github.com/AlfaKeNTAvR/kinova_pid.git
 git clone https://github.com/AlfaKeNTAvR/relaxed_ik_ros1.git
 git clone https://github.com/AlfaKeNTAvR/kinova_positional_control
